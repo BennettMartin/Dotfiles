@@ -1,0 +1,11 @@
+2023/08/28-18:41:46.924 3 Creating DB /home/dutchmartin/.config/chromium/Default/Local Storage/leveldb since it was missing.
+2023/08/28-18:41:46.934 3 Reusing MANIFEST /home/dutchmartin/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/28-18:44:21.678 5 Level-0 table #5: started
+2023/08/28-18:44:21.685 5 Level-0 table #5: 57727 bytes OK
+2023/08/28-18:44:21.690 5 Delete type=0 #3
+2023/08/28-18:44:26.694 3 Level-0 table #7: started
+2023/08/28-18:44:26.700 3 Level-0 table #7: 23354 bytes OK
+2023/08/28-18:44:26.704 3 Delete type=0 #4
+2023/08/28-18:47:50.349 5 Level-0 table #9: started
+2023/08/28-18:47:50.354 5 Level-0 table #9: 55553 bytes OK
+2023/08/28-18:47:50.358 5 Delete type=0 #6

@@ -1,0 +1,28 @@
+# Initial Setup 
+exec ~/set_once.sh
+
+# Config for sway
+#
+# Read `man 5 sway` for a complete reference.
+
+# Setting to choose default terminal
+set $term alacritty
+
+# user config directory
+include $HOME/.config/sway/config.d/*
+
+# only enable this if every app you use is compatible with wayland
+# xwayland disable
+#
+
+input "type:pointer" {
+    natural_scroll enabled
+}
+
+input "type:keyboard" {
+    repeat_delay 200
+    repeat_rate 100
+}
+
+# Sets wallpaper
+output * background /home/dutchmartin/Documents/wallpapers/1291412.jpg fill
